@@ -9,7 +9,7 @@
 
 **어려웠던 고민들, 배달의 만족이 해결해 드립니다!**
 ## 프로젝트 데모
-![team11_demo](/uploads/87e26b4fb1bcbb99e9d45958147a0e23/team11_demo.gif)
+https://user-images.githubusercontent.com/53514545/160953342-937f0305-71bc-416c-85d6-60c3abe4ed45.mp4
 ## 프로젝트 소개
 
 **날씨, 공휴일, 주말과 평일, 식사시간대, 코로나 확진자 수에 따른 평균배달건수를 시각화 합니다.**
